@@ -17,4 +17,4 @@ class threeVector(twoVector):
         print(f"{self.i}i + {self.j}j + {self.k}k")
 
 a = threeVector(5, 48, 20)
-a.show() 
+a.show()
